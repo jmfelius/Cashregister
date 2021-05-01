@@ -1,0 +1,2 @@
+public class tesLegeClass {
+}
